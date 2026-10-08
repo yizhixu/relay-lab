@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-server/
+data/
+.superpowers/
+playwright-report/
+test-results/
+.env
